@@ -1,7 +1,7 @@
 /* The code is importing the React library and the Bootstrap library, and also importing two images
 from the '../img' directory. */
 import React from 'react';
-const bootstrap = require('bootstrap')
+
 
 const img1=require('../img/jazz.jpeg');
 const img2=require('../img/nube.jpeg');
